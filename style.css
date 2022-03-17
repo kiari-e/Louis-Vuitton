@@ -1,3 +1,8 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 .pd{
     
     text-align: center;
@@ -42,3 +47,40 @@ p{
     display: inline-block;
     padding: 15xp;
 }
+
+/* string-summer */
+
+h1 {
+    font-family: "Aladin";
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 2px;
+  }
+  .nav-link {
+    font-family: "Allan";
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: black;
+  }
+  .navbar-nav {
+    margin-left: 400px;
+  }
+  h2 {
+    margin-left: 40px;
+    font-size: 18px;
+  }
+  .images {
+    height: 430px;
+    width: 100%;
+  }
+  .all-divs {
+    display: flex;
+    justify-content:space-around;
+    padding-top: 20px;
+  }
+  .div1 {
+    height: 400px;
+    width: 800px;
+  }
+  
