@@ -42,4 +42,69 @@
 .art a{
     line-height: 20px;
 }
+}
+  .img404{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .nav2 ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      padding-left: 300px;
+    }
+    .nav2 ul li{
+      float: left;
+    }
+    .nav2 ul li a{
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      text-align: center;
+    }
+    .text{
+      text-align: center;
+    }
+    /* string-summer */
+
+.string-summer-h1 {
+  font-family: "Aladin";
+  font-size: 28px;
+  text-align: center;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
+.nav-link {
+  font-family: "Allan";
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: black;
+}
+.string-summer-nav {
+  margin-left: 500px;
+}
+.string-summer-h2 {
+  margin-left: 40px;
+  font-size: 18px;
+}
+.string-summer-images {
+  height: 430px;
+  width: 100%;
+}
+.string-summer-all-divs {
+  display: flex;
+  justify-content:space-around;
+  padding-top: 20px;
+}
+.string-summer-div1 {
+  height: 400px;
+  width: 800px;
+}
+
+  
     
