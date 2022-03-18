@@ -15,7 +15,31 @@
 .pdo{
     list-style: none;
     text-align: center;
+} 
+
+.art1{
+    list-style: none;
+    text-align: right;
+    padding-right: 20px;
+    
     
 }
-   
+
+.art3{
+    padding-right: 20px;
+    border-left:1px solid #333;
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+.artimg{
+    padding-left: 20px;
+    width: 470px;
+    padding: 10px;
+}
+.art a{
+    line-height: 20px;
+}
     
