@@ -43,6 +43,41 @@
     .text{
       text-align: center;
     }
-    
+    /* string-summer */
+
+.string-summer-h1 {
+  font-family: "Aladin";
+  font-size: 28px;
+  text-align: center;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
+.nav-link {
+  font-family: "Allan";
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: black;
+}
+.string-summer-nav {
+  margin-left: 500px;
+}
+.string-summer-h2 {
+  margin-left: 40px;
+  font-size: 18px;
+}
+.string-summer-images {
+  height: 430px;
+  width: 100%;
+}
+.string-summer-all-divs {
+  display: flex;
+  justify-content:space-around;
+  padding-top: 20px;
+}
+.string-summer-div1 {
+  height: 400px;
+  width: 800px;
+}
+
   
     
