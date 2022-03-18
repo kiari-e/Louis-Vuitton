@@ -1,3 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.index-nav{
+  height: 50px;
+  width: 100%;
+  margin-left: 450px;
+  padding-top: 5px;
+}
+.index-ul{
+  display: flex;
+}
+.index-ul li{
+  padding: 20px;
+  list-style: none;
+}
+.index-ul li a{
+  text-decoration: none;
+}
 .pd{
     
     text-align: center;
@@ -42,3 +64,154 @@ p{
     display: inline-block;
     padding: 15xp;
 }
+.firstdiv{
+  background-image: url(./images/hero.jpg);
+  height: 800px;
+  width: 100%;
+  color: white;
+}
+
+.logo{
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.our{
+  font-size: 64px;
+  position: relative;
+  left: 280px;
+  top: 150px;
+}
+
+.we{
+  font-size: 22px;
+  text-align: center;
+  padding-top:  145px;
+  top: 150px;
+}
+
+
+h4{
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+
+}
+.images {
+  height: 550px;
+  width: 100%;
+}
+.all-divs {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.div1 {
+  background-color: rgba(128, 128, 128, 0.384);
+  height: 410px;
+  width: 400px;
+}
+.div2 {
+  background-color: rgba(128, 128, 128, 0.384);
+  height: 410px;
+  width: 400px;
+}
+.div3 {
+  background-color: rgba(128, 128, 128, 0.384);
+  height: 410px;
+  width: 400px;
+}
+
+.immg{
+  transition: 2s;
+}
+.immg:hover{
+  transform: scale(0.8);
+  
+}
+
+
+
+.footer{
+  color: white;
+  background-color:rgba(12, 12, 27, 0.767) ;
+  height: 320px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.customer{
+  font-size: 16px;
+ margin-top: 100px;
+}
+
+.tl{
+  font-size: 28px;
+  position: relative;
+  left: 30px;
+  bottom: 30px;
+}
+.social{
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.provide{
+ margin-top: 100px;
+}
+.list{
+  list-style: none;
+  display: flex;
+}
+.list li{
+  border-left: 2px  solid black;
+  padding: 7px;
+  position: relative;
+  right: 50px;
+}
+#ct{
+  border-left: none;
+}
+
+
+
+
+
+/* string-summer */
+
+.string-summer-h1 {
+    font-family: "Aladin";
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 2px;
+  }
+  .nav-link {
+    font-family: "Allan";
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: black;
+  }
+  .string-summer-nav {
+    margin-left: 500px;
+  }
+  .string-summer-h2 {
+    margin-left: 40px;
+    font-size: 18px;
+  }
+  .string-summer-images {
+    height: 430px;
+    width: 100%;
+  }
+  .string-summer-all-divs {
+    display: flex;
+    justify-content:space-around;
+    padding-top: 20px;
+  }
+  .string-summer-div1 {
+    height: 400px;
+    width: 800px;
+  }
+  
