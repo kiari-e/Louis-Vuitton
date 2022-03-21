@@ -99,11 +99,11 @@
 .string-summer-all-divs {
   display: flex;
   justify-content:space-around;
-  padding-top: 20px;
+  padding-top: 17px;
 }
 .string-summer-div1 {
   height: 400px;
-  width: 800px;
+  width: 750px;
 }
 .h1404{
   text-align: center;
